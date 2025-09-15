@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BusinessPlanGenerator/static/css/main.d0b5da1f.css",
+    "main.js": "/BusinessPlanGenerator/static/js/main.3947dbb9.js",
+    "index.html": "/BusinessPlanGenerator/index.html",
+    "main.d0b5da1f.css.map": "/BusinessPlanGenerator/static/css/main.d0b5da1f.css.map",
+    "main.3947dbb9.js.map": "/BusinessPlanGenerator/static/js/main.3947dbb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0b5da1f.css",
+    "static/js/main.3947dbb9.js"
+  ]
+}
